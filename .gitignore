@@ -1,0 +1,5 @@
+# Specific files.
+/.ccls
+
+# Directories.
+build
